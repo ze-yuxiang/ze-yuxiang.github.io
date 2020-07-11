@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ze-yuxiang.github.io</id>
     <title>泽雨相</title>
-    <updated>2020-07-11T11:42:40.128Z</updated>
+    <updated>2020-07-11T13:33:44.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ze-yuxiang.github.io"/>
     <link rel="self" href="https://ze-yuxiang.github.io/atom.xml"/>
@@ -19,6 +19,27 @@
 <a href="https://www.marxists.org/chinese/index.html">click here</a></p>
 <p>毛泽东博览<br>
 <a href="http://www.mzdbl.cn/">click here</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[碎碎念]]></title>
+        <id>https://ze-yuxiang.github.io/post/from2019to--/</id>
+        <link href="https://ze-yuxiang.github.io/post/from2019to--/">
+        </link>
+        <updated>2019-01-22T11:48:08.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>物理学，也许只是人类眼中的世界真理的小小投影</li>
+<li>所谓亲情友情爱情，不过是基于社会结构而产生的粗浅分类，如何能概括人类复杂的情感？</li>
+<li>政治是围绕资源分配展开的权力更迭的活动</li>
+<li>我是破晓也是梦魇</li>
+<li>世界是我眼中的倒影</li>
+<li>我是虚无中诞生的0</li>
+<li>想要表达的东西越是抽象，越是接近“完全”，则需要呈现的内容越是要多角度，多层次<br>
+人类眼中的世界是大道的层层投影</li>
+<li>让花朵腐烂比玉碎要残忍</li>
+<li>我是断爪之鹰</li>
+<li>人类是桥梁</li>
+</ul>
 ]]></content>
     </entry>
 </feed>
