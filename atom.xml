@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ze-yuxiang.github.io</id>
     <title>零号宇宙</title>
-    <updated>2020-10-14T14:07:59.894Z</updated>
+    <updated>2020-10-26T01:58:20.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ze-yuxiang.github.io"/>
     <link rel="self" href="https://ze-yuxiang.github.io/atom.xml"/>
@@ -10,16 +10,25 @@
     <icon>https://ze-yuxiang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 零号宇宙</rights>
     <entry>
-        <title type="html"><![CDATA[星海]]></title>
-        <id>https://ze-yuxiang.github.io/post/wuzhangti-xinghai/</id>
-        <link href="https://ze-yuxiang.github.io/post/wuzhangti-xinghai/">
+        <title type="html"><![CDATA[苍蓝之线]]></title>
+        <id>https://ze-yuxiang.github.io/post/wuzhangti-canglanzhixian/</id>
+        <link href="https://ze-yuxiang.github.io/post/wuzhangti-canglanzhixian/">
         </link>
-        <updated>2020-10-12T13:23:08.000Z</updated>
-        <content type="html"><![CDATA[<p>想往高处飞<br>
-飞过云层<br>
-飞过大气<br>
-星海 星海<br>
-在遥远的彼岸</p>
+        <updated>2020-10-17T01:50:27.000Z</updated>
+        <content type="html"><![CDATA[<p>儿时的长江口<br>
+有大风<br>
+云密如棉絮<br>
+白浪扑上长堤<br>
+站在石墩上望着<br>
+最远 最远的水面<br>
+是苍蓝的一线<br>
+连接水天的蓝线<br>
+分割水天的蓝线<br>
+模糊的 虚幻的蓝线<br>
+飘浮在世界尽头<br>
+大风牵起我的手<br>
+邀我共赴<br>
+苍蓝之线</p>
 ]]></content>
     </entry>
     <entry>
