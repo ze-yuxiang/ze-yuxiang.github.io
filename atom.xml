@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ze-yuxiang.github.io</id>
-    <title>零号宇宙 - 无限脑洞发源处</title>
-    <updated>2020-11-21T00:35:51.211Z</updated>
+    <title>零号宇宙</title>
+    <updated>2020-11-21T00:37:55.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ze-yuxiang.github.io"/>
     <link rel="self" href="https://ze-yuxiang.github.io/atom.xml"/>
     <logo>https://ze-yuxiang.github.io/images/avatar.png</logo>
     <icon>https://ze-yuxiang.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 零号宇宙 - 无限脑洞发源处</rights>
+    <rights>All rights reserved 2020, 零号宇宙</rights>
     <entry>
         <title type="html"><![CDATA[石头建筑]]></title>
         <id>https://ze-yuxiang.github.io/post/mihua-shitoujianzhu/</id>
