@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ze-yuxiang.github.io</id>
     <title>零号宇宙</title>
-    <updated>2020-11-24T14:49:55.236Z</updated>
+    <updated>2020-11-24T16:05:16.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ze-yuxiang.github.io"/>
     <link rel="self" href="https://ze-yuxiang.github.io/atom.xml"/>
     <logo>https://ze-yuxiang.github.io/images/avatar.png</logo>
     <icon>https://ze-yuxiang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 零号宇宙</rights>
-    <entry>
-        <title type="html"><![CDATA[路过-测试]]></title>
-        <id>https://ze-yuxiang.github.io/post/lu-guo-ce-shi/</id>
-        <link href="https://ze-yuxiang.github.io/post/lu-guo-ce-shi/">
-        </link>
-        <updated>2020-11-24T14:39:01.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><a href="https://imgchr.com/i/DUFwr9"><img src="https://s3.ax1x.com/2020/11/24/DUFwr9.jpg" alt="DUFwr9.jpg" loading="lazy"></a></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聚合云-测试]]></title>
-        <id>https://ze-yuxiang.github.io/post/ju-he-yun-ce-shi/</id>
-        <link href="https://ze-yuxiang.github.io/post/ju-he-yun-ce-shi/">
-        </link>
-        <updated>2020-11-24T14:29:34.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://pic.downk.cc/item/5fbd18b8b18d6271134e7fe5.jpg" alt="聚合云" loading="lazy"></figure>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[石头建筑]]></title>
         <id>https://ze-yuxiang.github.io/post/mihua-shitoujianzhu/</id>
