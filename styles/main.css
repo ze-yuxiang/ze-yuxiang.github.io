@@ -2074,7 +2074,7 @@ p > code {
       border-bottom-color: #555;
     }
     .archive-timeline-box::after, .tag-timeline-wrapper::after {
-      background: #eeeeee4c;
+      background: #eeeeeeb2;
     }h1, h2, h3, h4, h5, h6 {
       color: #555;
     }
@@ -2121,11 +2121,11 @@ p > code {
       }.nav-item a:hover {
         color: #222;
       }.nav-item-active {
-      background: #f9f9f94c;
+      background: #f9f9f9b2;
     }
 
     .nav-item:hover {
-      background: #f9f9f94c;
+      background: #f9f9f9b2;
       color: rgba(0, 0, 0, 0.98);
     }.site-author-image {
       border-radius: 50%;
@@ -2161,7 +2161,7 @@ p > code {
       color: #fc6423;
       border-bottom-color: #fc6423;
     }.bg-color {
-      background-color: #ffffff4c;
+      background-color: #ffffffb2;
     }
     .site-meta {
       background: #000 !important;
@@ -2170,13 +2170,13 @@ p > code {
       background: #000;
     }
     .brand {
-      background: #2125294c;
+      background: #212529b2;
     }
     .main-title, .brand {
       color: #FFF !important;
     }
     .mist .site-title i {
-      background: #FFFFFF4c;
+      background: #FFFFFFb2;
     }.box-shadow-wrapper {
       box-shadow: none !important;
     }body {
