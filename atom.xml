@@ -2,40 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ze-yuxiang.github.io</id>
     <title>零号宇宙</title>
-    <updated>2020-11-26T16:25:20.225Z</updated>
+    <updated>2020-11-29T03:25:55.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ze-yuxiang.github.io"/>
     <link rel="self" href="https://ze-yuxiang.github.io/atom.xml"/>
     <logo>https://ze-yuxiang.github.io/images/avatar.png</logo>
     <icon>https://ze-yuxiang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 零号宇宙</rights>
-    <entry>
-        <title type="html"><![CDATA[石头建筑]]></title>
-        <id>https://ze-yuxiang.github.io/post/mihua-shitoujianzhu/</id>
-        <link href="https://ze-yuxiang.github.io/post/mihua-shitoujianzhu/">
-        </link>
-        <updated>2020-11-15T17:11:55.000Z</updated>
-        <content type="html"><![CDATA[<p>“我”一个人站在小船上面朝河岸，河是威尼斯式的水道，威尼斯式的小船自动慢慢向前开，河岸上是连成排的巨大古老的石头建筑，像是神庙，入口很大，没有门，漆黑一片看不到里面，“我”上岸后看到河尽头一片废墟</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[龙]]></title>
-        <id>https://ze-yuxiang.github.io/post/mihua-long/</id>
-        <link href="https://ze-yuxiang.github.io/post/mihua-long/">
-        </link>
-        <updated>2020-11-15T17:10:23.000Z</updated>
-        <content type="html"><![CDATA[<p>“我”站在河边，一条紫色的龙从眼前飞过，飞入一座哥特式城堡</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑云]]></title>
-        <id>https://ze-yuxiang.github.io/post/mihua-heiyun/</id>
-        <link href="https://ze-yuxiang.github.io/post/mihua-heiyun/">
-        </link>
-        <updated>2020-11-15T17:01:33.000Z</updated>
-        <content type="html"><![CDATA[<p>“我”坐在公交车里，窗外飘浮着长条状的漆黑的云，很密的云，看不清其他东西</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[屠龙]]></title>
         <id>https://ze-yuxiang.github.io/post/tu-long/</id>
