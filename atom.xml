@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ze-yuxiang.github.io</id>
     <title>零号宇宙</title>
-    <updated>2021-01-09T20:32:03.347Z</updated>
+    <updated>2021-01-11T10:57:51.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ze-yuxiang.github.io"/>
     <link rel="self" href="https://ze-yuxiang.github.io/atom.xml"/>
@@ -10,7 +10,7 @@
     <icon>https://ze-yuxiang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 零号宇宙</rights>
     <entry>
-        <title type="html"><![CDATA[美人像]]></title>
+        <title type="html"><![CDATA[梦魇之一：美人像]]></title>
         <id>https://ze-yuxiang.github.io/post/meirenxiang/</id>
         <link href="https://ze-yuxiang.github.io/post/meirenxiang/">
         </link>
