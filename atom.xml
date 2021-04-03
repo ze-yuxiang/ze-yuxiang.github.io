@@ -2,23 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ze-yuxiang.github.io</id>
     <title>零号宇宙</title>
-    <updated>2021-04-03T11:35:53.375Z</updated>
+    <updated>2021-04-03T11:42:37.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ze-yuxiang.github.io"/>
     <link rel="self" href="https://ze-yuxiang.github.io/atom.xml"/>
     <logo>https://ze-yuxiang.github.io/images/avatar.png</logo>
     <icon>https://ze-yuxiang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 零号宇宙</rights>
-    <entry>
-        <title type="html"><![CDATA[pic try]]></title>
-        <id>https://ze-yuxiang.github.io/post/pic-try/</id>
-        <link href="https://ze-yuxiang.github.io/post/pic-try/">
-        </link>
-        <updated>2021-04-03T11:32:34.000Z</updated>
-        <content type="html"><![CDATA[<p>3646576<br>
-<a href="https://imgtu.com/i/DUnZcV"><img src="https://z3.ax1x.com/2020/11/25/DUnZcV.png" alt="伊皓加&amp;安田纱代" loading="lazy"></a></p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[梦魇之一：美人像]]></title>
         <id>https://ze-yuxiang.github.io/post/meirenxiang/</id>
