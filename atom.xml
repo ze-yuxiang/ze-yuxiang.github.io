@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ze-yuxiang.github.io</id>
     <title>零号宇宙</title>
-    <updated>2021-05-20T13:45:40.440Z</updated>
+    <updated>2021-05-24T19:30:57.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ze-yuxiang.github.io"/>
     <link rel="self" href="https://ze-yuxiang.github.io/atom.xml"/>
@@ -30,15 +30,17 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[屠龙]]></title>
-        <id>https://ze-yuxiang.github.io/post/tulong/</id>
-        <link href="https://ze-yuxiang.github.io/post/tulong/">
+        <title type="html"><![CDATA[网站推荐]]></title>
+        <id>https://ze-yuxiang.github.io/post/netreco/</id>
+        <link href="https://ze-yuxiang.github.io/post/netreco/">
         </link>
         <updated>2020-07-11T11:08:44.000Z</updated>
         <content type="html"><![CDATA[<p>马克思主义文库<br>
 <a href="https://www.marxists.org/chinese/index.html">https://www.marxists.org/chinese/index.html</a></p>
 <p>毛泽东博览<br>
 <a href="http://www.mzdbl.cn/">http://www.mzdbl.cn</a></p>
+<p>Liberation News 解放新闻 美国争取社会主义与解放党主办<br>
+<a href="https://www.liberationnews.org/">https://www.liberationnews.org/</a></p>
 ]]></content>
     </entry>
 </feed>
